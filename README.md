@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Key Features
+## Key Features
 - **Full Compliance** — Designed around HIPAA, CMS, and state-specific Medicaid requirements.  
 - **Data-Driven** — Real-time integrations with NPPES & Healthcare Provider Taxonomy databases eliminate manual entry.  
 - **Productivity Boost** — Configurable workflow automation, cloud document storage, and in-app messaging that slash turnaround time.  
@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 | Layer          | Technology |
 | -------------- | ---------- |
 | Frontend       | **React** |
@@ -21,7 +21,5 @@
 | Cache / Queue  | **Redis** |
 | Containerization | **Docker** |
 
----
 
-## ⚙️ Architecture
 
