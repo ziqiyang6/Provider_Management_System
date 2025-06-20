@@ -1,6 +1,6 @@
 # Provider Management System (PMS)
 
-> Enterprise-grade platform for end-to-end Medicaid provider enrollment, credentialing, and communication.
+> The Provider Management System is an **enterprise-grade**, **micro-services platform** that automates Medicaid provider enrollment from registration through credentialing and ongoing communication.
 
 ---
 
